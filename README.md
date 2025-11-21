@@ -84,7 +84,9 @@ $ns run
 ```
  
 # OUTPUT
-<img width="735" height="387" alt="image" src="https://github.com/user-attachments/assets/ca3d20ce-5896-4745-a10d-d694930ad01f" />
+![WhatsApp Image 2025-11-21 at 10 12 00 AM](https://github.com/user-attachments/assets/e5881bef-0448-4f88-b826-d64442aa379e)
+
+
 
 ---
 
